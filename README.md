@@ -1,2 +1,2 @@
-# GoodDropRoastingCo
+# GoodDropRoasting
 Minimalist eCommerce Store
